@@ -1,0 +1,8 @@
+'''create an sqlite database with locations table, and appropriate attributes
+
+this database is supposed to contain the locations from the where.data file and 
+the raw json type data belonging to it that we will retrieve by requesting it from
+the google geodata API.
+
+
+'''
